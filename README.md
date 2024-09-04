@@ -49,3 +49,5 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
       
   [Resposta](https://github.com/piaskowskirodrigo/Teste-Estagio-Target-Sistemas/blob/master/src/main/java/com/mycompany/testeestagiotargetsistemasfinal/Teste5StringInvertida.java)
 ---
+
+🚀[Linkedin](https://www.linkedin.com/in/rodrigo-piaskowski-6a5a95287/)🚀
